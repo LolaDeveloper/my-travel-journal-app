@@ -1,0 +1,25 @@
+nav {
+  font-family: "Poppins", sans-serif;
+  background: #f55a5a;
+  width: 100%;
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  padding: 20px 35px;
+}
+img {
+  width: 25px;
+}
+h1 {
+  font-size: 30px;
+  line-height: 14px;
+  color: #ffffff;
+}
+h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1;
+}
