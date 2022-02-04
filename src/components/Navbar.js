@@ -7,8 +7,9 @@ export default function Navbar() {
     <nav>
       <div>
         <h1>
-          <img src={Japan} className="img-fluid" /> Travelling Japan{" "}
-          <img src={Japan} className="img-fluid" />
+          <img src={Japan} className="img-fluid flag" alt="flag of Japan" />{" "}
+          Travelling Japan{" "}
+          <img src={Japan} className="img-fluid flag" alt="flag of Japan" />
         </h1>
         <h3>My travel photo diary</h3>
       </div>
