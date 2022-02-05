@@ -1,12 +1,12 @@
-.hero {
+.Hero {
   display: flex;
   flex-direction: column;
 }
-.hero img {
+.Hero img {
   max-width: 400px;
   align-self: center;
   height: 400px;
 }
-.hero h1 {
+.Hero h1 {
   color: brown;
 }
