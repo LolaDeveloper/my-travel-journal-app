@@ -1,4 +1,4 @@
-nav {
+.Navbar {
   font-family: "Poppins", sans-serif;
   background: #f55a5a;
   width: 100%;
@@ -8,15 +8,15 @@ nav {
   justify-content: center;
   padding: 20px 35px;
 }
-.flag {
+.Navbar .Navcontent img {
   width: 25px;
 }
-h1 {
+.Navbar .Navcontent h1 {
   font-size: 30px;
   line-height: 14px;
   color: #ffffff;
 }
-h3 {
+.Navcontent h3 {
   font-family: "Playfair Display", serif;
   font-size: 14px;
   font-style: italic;

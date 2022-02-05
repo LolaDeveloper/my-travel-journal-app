@@ -4,8 +4,8 @@ import Japan from "../images/japan.png";
 
 export default function Navbar() {
   return (
-    <nav>
-      <div>
+    <nav className="Navbar">
+      <div className="Navcontent">
         <h1>
           <img src={Japan} className="img-fluid flag" alt="flag of Japan" />{" "}
           Travelling Japan{" "}
