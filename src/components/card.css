@@ -1,0 +1,35 @@
+.Card {
+  margin: auto;
+  width: 470px;
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 10px 20px rgb(0 0 0 /10%);
+  margin: 20px 0;
+  background: white;
+}
+.Card .card--image {
+  border-radius: 5px;
+  width: 130px;
+}
+.card--stats,
+.card--pin,
+.location {
+  position: relative;
+  top: -10px;
+  font-size: 10px;
+}
+.Card .card--pin {
+  width: 7px;
+  height: 9px;
+}
+.Card h1 {
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  font-style: bold;
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 3px;
+}
