@@ -1,6 +1,9 @@
 .App {
   text-align: center;
+  box-sizing: border-box;
+  margin: 0;
 }
+
 section {
   padding: 20px;
 }
