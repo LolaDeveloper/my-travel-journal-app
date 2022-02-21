@@ -7,12 +7,12 @@ export default [
       "https://www.google.com/maps/place/Daisetsuzan+National+Park/@43.5083786,142.8442812,11z/data=!4m9!1m2!2m1!1sdaisetsuzan!3m5!1s0x5f0d2938f602a549:0xa0daa8c12d0764fc!8m2!3d43.5083823!4d142.9843628!15sCgtkYWlzZXRzdXphbloNIgtkYWlzZXRzdXphbpIBDW5hdGlvbmFsX3Bhcms",
     dateVisited: "Jun 23-24, 2018",
     description:
-      "This was such a fun trip, never mind that it was freezing cold at the top of the mountain in June! The onsen (hot spting) bath made the whole climb worth it at the end of the day. Best time to visit, I hear, is around the second half of September. Watch out for the bears!",
+      "This was such a fun trip, never mind that it was freezing cold at the top of the mountain in June! The onsen (hot spring) bath made the whole climb worth it at the end of the day. Best time to visit, I hear, is around the second half of September. Watch out for the bears!",
     coverImage: "daisetsu-zan.jpg",
   },
   {
     id: 2,
-    title: "Nakafurano flower Park",
+    title: "Nakafurano Flower Park",
     location: "Furano, Hokkaido",
     googleMapsUrl:
       "https://www.google.com/maps/place/Nakafurano+Flower+Park/@43.4120612,142.4225922,17z/data=!4m6!3m5!1s0x5f0cb49dc5c20959:0xc87051fb00504aed!4b1!8m2!3d43.4120612!4d142.4225922?hl=en",
